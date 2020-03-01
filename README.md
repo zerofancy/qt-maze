@@ -1,5 +1,13 @@
 # qt-maze
-大二小学期小组做的走迷宫游戏，今天想起来整理下。虽然其中有诸多不完善的地方，但作为学习编程以来第一个小组合作的项目，完成度还是比较高的。
+大一小学期小组做的走迷宫游戏，今天想起来整理下。虽然其中有诸多不完善的地方，但作为学习编程以来第一个小组合作的项目，完成度还是比较高的。
+
+![mainwindow](doc/img/mainwindow.png)
+
+![help](doc/img/help.png)
+
+![game](doc/img/game.png)
+
+![victory](doc/img/victory.png)
 
 ## 功能介绍
 Qt做的走迷宫小游戏，其中迷宫地图的生成采用了Prime算法。
