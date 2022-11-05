@@ -20,8 +20,8 @@ Qt做的走迷宫小游戏，其中迷宫地图的生成采用了Prime算法。
 - 支持游戏主题切换，并且预置了三套游戏主题
 
 ## 小组成员
-- 刘海鑫
-- 李睿
-- 解亚续
-- 李子豪
-- 闫河
+- [归零幻想](https://ntutn.top/)
+- [ruiOvO](https://www.ruiovo.top/)
+- [XYX](https://xyx6.top/)
+- [阿超](https://www.douyin.com/user/MS4wLjABAAAAe8eHQL2kDdOD2SBWrmZDLwSc6pV097sdhwkQAZ2_Z-I)
+- yanhe
